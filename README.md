@@ -6,7 +6,7 @@
 2. Installation requirement.txt
     ```
     $ cd bri519_jaeryunghong
-    $ pip requirement.txt
+    $ pip install -r requirement.txt
     ```
 3. Run python source code
    ```
